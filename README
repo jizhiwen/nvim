@@ -1,1 +1,4 @@
 my personal neovim configuration.
+
+Note:
+1. Copy autoload/plug.vim to ~/.local/share/nvim/site/autoload
